@@ -8,7 +8,7 @@ Introduction:
 
 This tech-challenge is based on Java, Selenium Web Driver, Maven and TestNG and will create automated test cases and has the functionality of choosing different browser.
 
-As User will be able to sign up for new account on web site www.appdirect.com by clicking on Login link and then Signup link. Signup page will suggest enter an email address and once it’s entered will send out activation email.
+As User will be able to sign up for new account on web site www.appdirect.com by clicking on Login link and then Signup link. Signup page will suggest enter an email address and once it’s entered will send out activation email and if the user enter already registered Email-Id then error message will be display.
 
 This project runs for three browser Chrome,Firefox and Safari. It contains seven packages and five test cases.
 
